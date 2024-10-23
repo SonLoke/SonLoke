@@ -17,7 +17,7 @@ I love working on both front-end and back-end projects, specializing in **Python
 
 ### 🔧 Tech Stack
 
-<p align="center"> HTML5 CSS <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/html-ff5e00?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> </p>
 
 ---
 
